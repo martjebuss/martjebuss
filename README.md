@@ -1,6 +1,6 @@
 ### Hi, I'm Martje! 👋
 
-I've recently completed a 3-month data science training and am now working on projects for my portfolio. Being a very curious and creative person, I love the moment when you can generate meaningful insights from a bunch of text and numbers. With my background in psychology, I'm especially interested in the intersection of social and behavioral sciences, HCI, and computer science. 
+I am a psychologist and behavioral data scientist currently working on PhD projects using app data, web tracking data, and multimodal sensor data. In my free time, I like to build meaningful dashboards from data I found on Kaggle and learn the basics of game development. Being a very curious and creative person, I love the moment when you can generate meaningful insights from a bunch of text and numbers. I'm especially interested in the intersection of social and behavioral sciences, HCI, and computer science. 
 <!--
 **meowstats/meowstats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
